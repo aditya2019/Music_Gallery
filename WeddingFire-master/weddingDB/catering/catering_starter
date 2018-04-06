@@ -1,0 +1,69 @@
+{
+  "starter": [
+    {
+      "food_type" : "veg",
+      "food_item" : "Samosa",
+    },
+  {
+      "food_type" : "veg",
+      "food_item" : "Dhokla",
+    },
+  {
+      "food_type" : "veg",
+      "food_item" : "Bhel",
+    },
+  {
+      "food_type" : "veg",
+      "food_item" : "Fried Potatoes",
+    },
+  {
+      "food_type" : "veg",
+      "food_item" : "Sweet Corn",
+    },
+  {
+      "food_type" : "veg",
+      "food_item" : "Harabara Kababh",
+    },
+  {
+      "food_type" : "veg",
+      "food_item" : "Spring Roll",
+    },
+  {
+      "food_type" : "veg",
+      "food_item" : "cold Drink",
+    },
+  {
+      "food_type" : "veg",
+      "food_item" : "Chillie Potato",
+    },
+  {
+      "food_type" : "veg",
+      "food_item" : "Soup",
+    },
+ {
+      "food_type" : "nonveg",
+      "food_item" : "Chicken Tikka",
+    },
+  {
+      "food_type" : "nonveg",
+      "food_item" : "Chicken Lollipop",
+    },
+  {
+      "food_type" : "nonveg",
+      "food_item" : "Garlic Chicken",
+    },
+  {
+      "food_type" : "nonveg",
+      "food_item" : "Chicken Soup",
+    },
+  {
+      "food_type" : "nonveg",
+      "food_item" : "Chilli Wings",
+    },
+  {
+      "food_type" : "nonveg",
+      "food_item" : "Chicken Roll",
+    }
+
+  ]
+}

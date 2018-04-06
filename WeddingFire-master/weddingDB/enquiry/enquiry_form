@@ -1,0 +1,10 @@
+{
+  "enquiry": [
+    {
+      "name"        : "Ajay Goel",
+      "email"       : "ajay123@gmail.com",
+      "contactNo"   : 8800968432,
+    "query_message" : "Problem or query discussion"
+    }
+  ]
+}   

@@ -1,5 +1,8 @@
 package com.song.repository;
 
-public class Mymusicrepository {
+import org.springframework.data.mongodb.repository.MongoRepository;
+import com.mymusic.Mymusic;
+
+public interface Mymusicrepository extends MongoRepository<Mymusic, Integer>{
 
 }

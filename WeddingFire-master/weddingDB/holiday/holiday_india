@@ -1,0 +1,59 @@
+{
+  "holiday_india": [
+    { 
+      "location" : "Shimla",
+      "duration": ["2 Days 3 Nights","4 Days 5 Nights","5 Days 6 Nights"],
+      "image_path" : ["/abc.jpg","/abc.jpg","/abc.jpg", "/abc.jpg"],
+      "price" : [32500, 43500, 50900],
+      "hotel_rating" : [3.5, 4.5, 5.0],
+      "hotel_name" : ["Shivaik Hotel", "Hotel Clarion Inn", "Kufri Holiday Resort"],
+      "month" : ["March","April","May","June"],
+      "description" : "Sightseeings of Shimla & Manali Activities like Paragliding, treks, safaris, etc. Get in touch with us to know more"
+      "areas" : ["Shimla","Manali"]
+    },
+{ 
+      "location" : "Jaipur",
+      "duration": ["3 Days 4 Nights","4 Days 5 Nights","6 Days 7 Nights"],
+      "image_path" : ["/abc.jpg","/abc.jpg","/abc.jpg", "/abc.jpg"],
+      "price" : [32500, 43500, 50900],
+      "hotel_rating" : [3.3, 4.2, 5.0],
+      "hotel_name" : ["Hotel Maya Niwas", "Milestone 251", "Lebua Resort"],
+      "month" : ["November","December","January","February"],
+      "description" : "A 4 city holiday with full day sightseeing tours in all cities.Private AC vehicle for airport transfers and intercity  transfers along with sightseeing.Well trained and professional driver.Excursion to Sam Sand Dunes in Jaisalmer"
+    },
+      "areas" : ["Jaipur","Jodhpur","Jaisalmer"]
+{ 
+      "location" : "Kerala",
+      "duration": ["4 Days 5 Nights","4 Days 5 Nights","5 Days 6 Nights"],
+      "image_path" : ["/abc.jpg","/abc.jpg","/abc.jpg", "/abc.jpg"],
+      "price" : [23227, 26915, 27000],
+      "hotel_rating" : [3.0, 3.6, 4.8],
+      "hotel_name" : ["Club 9", "Pagoda Resorts", "Hotel Treetop"],
+      "month" : ["June","July","January","February"],
+      "description" : "Gaze upon the backwaters of Kerala, Visit to tea plantation, Eravikulam National Park, Mattupetty Lake and Dam",
+      "areas" :["Munnar","THeekady","Allepey"]
+    },
+{ 
+      "location" : "Goa",
+      "duration": ["3 Days 4 Nights","4 Days 3 Nights","4 Days 4 Nights"],
+      "image_path" : ["/abc.jpg","/abc.jpg","/abc.jpg", "/abc.jpg"],
+      "price" : [16411, 16630, 22200],
+      "hotel_rating" : [4.2, 4.8, 5.0],
+      "hotel_name" : ["Estralo Do Resort", "Resort De Coracao", "Deltin Suites"],
+      "month" : ["October","November","December","January"],
+      "description" : "Enjoy romantic candle-light dinner, Hassle-free airport transfers",
+      "areas" :["Panaji","Mormugao","Margao"]
+    },
+{ 
+      "location" : "Mumbai",
+      "duration": ["3 Days 4 Nights","3 Days 4 Nights","4 Days 3 Nights"],
+      "image_path" : ["/abc.jpg","/abc.jpg","/abc.jpg", "/abc.jpg"],
+      "price" : [40250, 50630, 84200],
+      "hotel_rating" : [4.2, 4.8, 5.0],
+      "hotel_name" : ["Estralo Do Resort", "Resort De Coracao", "Deltin Suites"],
+      "month" : ["June","July","August","September"],
+      "description" : "Darshan at Shirdi Sai Baba and Shani Shingnapur, and Sightseeing of world renowned Ajanta Caves.Includes a clean private car for transfers and sightseeing.",
+      "areas" :["Aurangabad","Shirdi","Mumbai Gate"]
+    },
+  ]
+}

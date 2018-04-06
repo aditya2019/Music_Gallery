@@ -1,0 +1,55 @@
+{
+  "venue": [
+    {
+      "venue_name": "Grand Milan Sapphire",
+      "location": "Angel Mega Mall, Kaushambi",
+      "city": "Ghaziabad",
+      "venue_rating": 4.1,
+      "capacity": 1000,
+      "price": 1500,
+      "type" : "Banquet Hall",
+      "venueImage_path": "/4w047Yz5N5o4cYSH1PkoblJehDW.jpg",
+    },
+ {
+      "venue_name": "Raj Party Lounge",
+      "location": "Behind Pacific Mall, Site 4, Sahibabad",
+      "city": "Ghaziabad",
+      "venue_rating": 4.3,
+      "capacity": 1000,
+      "price": 1600,
+      "type" : "Banquet Hall",
+      "venueImage_path": "/4w047Yz5N5o4cYSH1PkoblJehDW.jpg",
+    },
+ {
+      "venue_name": "RK Banquet Hall",
+      "location": "Rakesh Marg",
+      "city": "Ghaziabad",
+      "venue_rating": 3.9,
+      "capacity": 800,
+      "price": 1300,
+      "type" : "Banquet Hall",
+      "venueImage_path": "/4w047Yz5N5o4cYSH1PkoblJehDW.jpg",
+    },
+ {
+      "venue_name": "Golden Castle Banquets",
+      "location": "Jaipuria Mall, Ahinsa Khand, Indrapuram",
+      "city": "Ghaziabad",
+      "venue_rating": 4.5,
+      "capacity": 800,
+      "price": 1000,
+      "type" : "Banquet Hall",
+      "venueImage_path": "/4w047Yz5N5o4cYSH1PkoblJehDW.jpg",
+    },
+ {
+      "venue_name": "Panache Banquets & Restaurant",
+      "location": "Jaipuria Mall, Ahinsa Khand, Indrapuram",
+      "city": "Ghaziabad",
+      "venue_rating": 4.5,
+      "capacity": 350,
+      "price": 800,
+      "type" : "Banquet Hall",
+      "venueImage_path": "/4w047Yz5N5o4cYSH1PkoblJehDW.jpg",
+    },
+   
+  ]
+}

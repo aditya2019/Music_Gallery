@@ -1,0 +1,81 @@
+{
+  "mehendi": [
+    {
+      "artist"      : "Ajay Mehendi Art",
+      "location"    : "Gurgaon",
+      "vote_average": 5.0,
+      "price"       : 2100,
+      "poster_path" : ["/iTb0clIb2xnTKuhGwbbF7WOd9J2.jpg"]
+    }
+ {
+      "artist"      : "Deepak Mehendi Art",
+      "location"    : "Delhi",
+      "vote_average": 5.0,
+      "price"       : 5100,
+      "poster_path" : ["/iTb0clIb2xnTKuhGwbbF7WOd9J2.jpg"]
+    },
+ {
+      "artist"      : "Bittu Mehendi Art",
+      "location"    : "Delhi",
+      "vote_average": 5.0,
+      "price"       : 5100,
+      "poster_path" : ["/iTb0clIb2xnTKuhGwbbF7WOd9J2.jpg"]
+    },
+ {
+      "artist"      : "Jayprakash Mehendi Art",
+      "location"    : "Delhi",
+      "vote_average": 4.0,
+      "price"       : 5000,
+      "poster_path" : ["/iTb0clIb2xnTKuhGwbbF7WOd9J2.jpg"]
+    },
+{
+      "artist"      : "Shefali Mehendi Artist",
+      "location"    : "Mumbai",
+      "vote_average": 4.1,
+      "price"       : 5000,
+      "poster_path" : ["/iTb0clIb2xnTKuhGwbbF7WOd9J2.jpg"]
+    },
+{
+      "artist"      : "Deepak Mehendi Art",
+      "location"    : "Mumbai",
+      "vote_average": 4.2,
+      "price"       : 2500,
+      "poster_path" : ["/iTb0clIb2xnTKuhGwbbF7WOd9J2.jpg"]
+    },
+{
+      "artist"      : "Charmi's Creation",
+      "location"    : "Mumbai",
+      "vote_average": 3.6,
+      "price"       : 6000,
+      "poster_path" : ["/iTb0clIb2xnTKuhGwbbF7WOd9J2.jpg"]
+    },
+{
+      "artist"      : "Raju Mehendi Artist",
+      "location"    : "Banglore",
+      "vote_average": 4.0,
+      "price"       : 2500,
+      "poster_path" : ["/iTb0clIb2xnTKuhGwbbF7WOd9J2.jpg"]
+    },
+{
+      "artist"      : "Nahida Mehendi Art",
+      "location"    : "Bangalore",
+      "vote_average": 3.8,
+      "price"       : 3000,
+      "poster_path" : ["/iTb0clIb2xnTKuhGwbbF7WOd9J2.jpg"]
+    },
+{
+      "artist"      : "Nazwas Mehendi",
+      "location"    : "Bangalore",
+      "vote_average": 5.0,
+      "price"       : 2500,
+      "poster_path" : ["/iTb0clIb2xnTKuhGwbbF7WOd9J2.jpg"]
+    },
+{
+      "artist"      : "Kalaivani Mehendi Art",
+      "location"    : "Bangalore",
+      "vote_average": 3.9,
+      "price"       : 6000,
+      "poster_path" : ["/iTb0clIb2xnTKuhGwbbF7WOd9J2.jpg"]
+    }
+  ]
+}   
