@@ -2,6 +2,7 @@ package com.song.controller;
 
 import java.util.List;
 
+import org.springframework.data.mongodb.core.MongoOperations;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
@@ -38,6 +39,13 @@ public class MymusicController {
 	public ResponseEntity<Void> create(@RequestBody Mymusic mymusic) {
 		 try {
 			 mymusicrepository.save(mymusic);
+			// MongoOperations mongoOperations = getMongoConnection();
+
+//		        Object k2 =  mymusicrepository.findMymusicByObjectId();
+//
+//		        System.out.println(k2.toString());
+
+		      //  return students;
 		  return ResponseEntity.noContent().build();
 		 } catch (Exception e) {
 		  return ResponseEntity.status(HttpStatus.CONFLICT).build();

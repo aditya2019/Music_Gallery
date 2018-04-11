@@ -2,14 +2,19 @@ package com.songlist;
 
 import java.io.Serializable;
 
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+
+import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document
-public class Song implements Serializable{
-	@Id
-	 private Integer id;
-	 private String song_name;
+@Document(collection = "test")
+public class Song {
+	  
+	 @Id
+	 private String id;
+	 private String name;
 	 private Integer year;
 	 private String singer_name;
 	 private String music_director;
@@ -21,12 +26,11 @@ public class Song implements Serializable{
 	 
     public Song()
     {
-	
     }
-    public Song(Integer id,String song_name,Integer year,String singer_name,String music_director,String language,Integer rating,Integer duration,String type,String song_path)
+    public Song(String name,Integer year,String singer_name,String music_director,String language,Integer rating,Integer duration,String type,String song_path)
     {
-	  this.id = id;
-	  this.song_name = song_name;
+	 
+	  this.name = name;
 	  this.year = year;
 	  this.singer_name = singer_name;
 	  this.music_director = music_director;
@@ -37,17 +41,11 @@ public class Song implements Serializable{
 	  this.song_path = song_path;
     }
 	 
-     public Integer getId() {
-		return id;
+	public String getName() {
+		return name;
 	}
-	public void setId(Integer id) {
-		this.id = id;
-	}
-	public String getSong_name() {
-		return song_name;
-	}
-	public void setSong_name(String song_name) {
-		this.song_name = song_name;
+	public void setName(String name) {
+		this.name = name;
 	}
 	public Integer getYear() {
 		return year;
@@ -97,5 +95,10 @@ public class Song implements Serializable{
 	public void setSong_path(String song_path) {
 		this.song_path = song_path;
 	}
+	@Override
+	public String toString() {
+		return language;
+	}
+
 	
 }

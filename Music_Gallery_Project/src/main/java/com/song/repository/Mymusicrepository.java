@@ -5,4 +5,5 @@ import com.mymusic.Mymusic;
 
 public interface Mymusicrepository extends MongoRepository<Mymusic, Integer>{
 
+	//public Object findMymusicByObjectId();
 }
