@@ -9,7 +9,7 @@ import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collection = "test")
+@Document
 public class Song {
 	  
 	 @Id
@@ -95,10 +95,5 @@ public class Song {
 	public void setSong_path(String song_path) {
 		this.song_path = song_path;
 	}
-	@Override
-	public String toString() {
-		return language;
-	}
-
 	
 }
