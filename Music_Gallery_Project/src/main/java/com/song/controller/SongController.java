@@ -143,7 +143,7 @@ public class SongController {
     public void play(@PathVariable("id") String id) {
     	
     	try{
-    		filePath = "/home/kls103/Documents/workspace-sts-3.9.2.RELEASE/Music_Gallery_Project/src/main/resources/audios/"+id+".aiff";
+    		filePath = "C:\\Users\\ADI\\Desktop\\Live_Project\\Music_Gallery\\Music_Gallery_Project\\src\\main\\resources\\audios\\"+id+".aiff";
     		 audioInputStream = 
     	                AudioSystem.getAudioInputStream(new File(filePath).getAbsoluteFile());
     	         
@@ -153,7 +153,7 @@ public class SongController {
     	        // open audioInputStream to the clip
     	        clip.open(audioInputStream);
     	         
-    	        //clip.loop(Clip.LOOP_CONTINUOUSLY);
+    	        //clip.loop(Clip.LOOP_CONTINUOUSLY
     	        
     	        clip.start();
     	        
@@ -217,7 +217,7 @@ public class SongController {
 	    BufferedInputStream buf = null;
 	    try{                 
 	        //my mp3 path to file
-	        String pathToFile = "/home/kls103/Documents/workspace-sts-3.9.2.RELEASE/Music_Gallery_Project/src/main/resources/audios/apna.aiff";                       
+	        String pathToFile ="C:\\Users\\ADI\\Desktop\\Live_Project\\Music_Gallery\\Music_Gallery_Project\\src\\main\\resources\\audios\\tere.mp3";                       
 	        stream = response.getOutputStream();
 	        File mp3 = new File(pathToFile);                           
 	        //header to force download
